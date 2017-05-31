@@ -1,0 +1,64 @@
+
+05-31 13:51:28.720  5782  9378 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:51:28.737  5782  9115 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:51:28.751 10348 10348 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:51:56.746  6415  6436 I chatty  : uid=10484(in.zhaoj.shadowsocksr) pool-3-thread-1 expire 1 line
+05-31 13:51:59.358  6415  6415 I chatty  : uid=10484(in.zhaoj.shadowsocksr) expire 20 lines
+05-31 13:52:09.126 10348 10348 F libc    : stack corruption detected
+05-31 13:52:09.126  5782 10349 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:52:09.129  5782  9115 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:52:09.145 10423 10423 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:52:09.177  9067  9067 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/tun2socks expire 4 lines
+05-31 13:52:15.773 10423 10423 F libc    : stack corruption detected
+05-31 13:52:15.775  5782 10424 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:52:15.775  5782  9115 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:52:15.804  9067  9067 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/tun2socks expire 2 lines
+05-31 13:52:15.820 10507 10507 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:53:22.022 10507 10507 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 2 lines
+05-31 13:53:44.746 10507 10507 F libc    : stack corruption detected
+05-31 13:53:44.747  5782 10508 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:53:44.754  5782  9115 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:53:44.765  9067  9067 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/tun2socks expire 7 lines
+05-31 13:53:44.771 10617 10617 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:53:45.913  5782 10618 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:53:45.914 10617 10617 F libc    : stack corruption detected
+05-31 13:53:45.920  5782  9115 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:53:45.945 10629 10629 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:54:38.553  9119  9119 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 29 lines
+05-31 13:54:43.464  9119  9119 F libc    : stack corruption detected
+05-31 13:54:43.464  5782  9120 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:54:43.467  5782  9118 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 3 lines
+05-31 13:54:43.496 10816 10816 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 9 lines
+05-31 13:55:03.162 10629 10629 F libc    : stack corruption detected
+05-31 13:55:03.163  5782 10630 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:55:03.181  5782  9115 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 3 lines
+05-31 13:55:03.206 10833 10833 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:55:03.246  9067  9067 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/tun2socks expire 8 lines
+05-31 13:55:09.939 10816 10816 F libc    : stack corruption detected
+05-31 13:55:09.939  5782 10817 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:55:09.960 10879 10879 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 9 lines
+05-31 13:55:10.313 10833 10833 F libc    : stack corruption detected
+05-31 13:55:10.313  5782 10834 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:55:10.332 10882 10882 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/ss-local expire 12 lines
+05-31 13:55:44.143  9067  9067 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/tun2socks expire 2 lines
+05-31 13:55:44.143  5782  9065 I chatty  : uid=10484 in.zhaoj.shadowsocksr:bg expire 1 line
+05-31 13:55:44.149  9067  9067 I chatty  : uid=10484(in.zhaoj.shadowsocksr) /data/user/0/in.zhaoj.shadowsocksr/tun2socks expire 2 lines
+05-31 13:55:56.326  6415  6415 I chatty  : uid=10484(in.zhaoj.shadowsocksr) expire 2 lines
+05-31 13:55:56.423  5782  5837 I chatty  : uid=10484(in.zhaoj.shadowsocksr) pool-3-thread-1 expire 1 line
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.widget.TextView.append(TextView.java:4028)
+05-31 13:55:58.232  6415  6415 W System.err: 	at com.github.shadowsocks.ShadowsocksSettings.com$github$shadowsocks$ShadowsocksSettings$$onPreferenceClick$body$5(ShadowsocksSettings.scala:289)
+05-31 13:55:58.232  6415  6415 W System.err: 	at com.github.shadowsocks.ShadowsocksSettings$$anonfun$25.onPreferenceClick(ShadowsocksSettings.scala:279)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.preference.Preference.performClick(Preference.java:996)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.preference.PreferenceScreen.onItemClick(PreferenceScreen.java:214)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.widget.AdapterView.performItemClick(AdapterView.java:310)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.widget.AbsListView.performItemClick(AbsListView.java:1155)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.widget.AbsListView$PerformClick.run(AbsListView.java:3120)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.widget.AbsListView$3.run(AbsListView.java:4035)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.os.Handler.handleCallback(Handler.java:751)
+05-31 13:55:58.232  6415  6415 W System.err: 	at android.os.Handler.dispatchMessage(Handler.java:95)
+05-31 13:55:58.233  6415  6415 W System.err: 	at android.os.Looper.loop(Looper.java:154)
+05-31 13:55:58.233  6415  6415 W System.err: 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+05-31 13:55:58.233  6415  6415 W System.err: 	at java.lang.reflect.Method.invoke(Native Method)
+05-31 13:55:58.233  6415  6415 W System.err: 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:865)
+05-31 13:55:58.233  6415  6415 W System.err: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:755)
+05-31 13:55:58.257  6415  6415 I Choreographer: Skipped 30 frames!  The application may be doing too much work on its main thread.
